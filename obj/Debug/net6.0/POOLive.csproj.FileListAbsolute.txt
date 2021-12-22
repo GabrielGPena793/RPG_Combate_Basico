@@ -1,0 +1,15 @@
+/home/penax/DIO/POOLive/bin/Debug/net6.0/POOLive
+/home/penax/DIO/POOLive/bin/Debug/net6.0/POOLive.deps.json
+/home/penax/DIO/POOLive/bin/Debug/net6.0/POOLive.runtimeconfig.json
+/home/penax/DIO/POOLive/bin/Debug/net6.0/POOLive.dll
+/home/penax/DIO/POOLive/bin/Debug/net6.0/ref/POOLive.dll
+/home/penax/DIO/POOLive/bin/Debug/net6.0/POOLive.pdb
+/home/penax/DIO/POOLive/obj/Debug/net6.0/POOLive.csproj.AssemblyReference.cache
+/home/penax/DIO/POOLive/obj/Debug/net6.0/POOLive.GeneratedMSBuildEditorConfig.editorconfig
+/home/penax/DIO/POOLive/obj/Debug/net6.0/POOLive.AssemblyInfoInputs.cache
+/home/penax/DIO/POOLive/obj/Debug/net6.0/POOLive.AssemblyInfo.cs
+/home/penax/DIO/POOLive/obj/Debug/net6.0/POOLive.csproj.CoreCompileInputs.cache
+/home/penax/DIO/POOLive/obj/Debug/net6.0/POOLive.dll
+/home/penax/DIO/POOLive/obj/Debug/net6.0/ref/POOLive.dll
+/home/penax/DIO/POOLive/obj/Debug/net6.0/POOLive.pdb
+/home/penax/DIO/POOLive/obj/Debug/net6.0/POOLive.genruntimeconfig.cache
